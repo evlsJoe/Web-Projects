@@ -3,3 +3,6 @@ This is a list of the current web-projects i have build, all of these were coded
 
 
 DM me on twitte @praxus83 if you want the code for my projects
+
+
+these are all screenshots of my projects
